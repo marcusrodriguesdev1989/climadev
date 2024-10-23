@@ -12,7 +12,11 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("./assets/photo-1470252649378-9c29740c9fa8.avif");
+    background: linear-gradient(rgba(49, 47, 47, 0.8), rgb(51, 49, 49)), url("./assets/photo-1470252649378-9c29740c9fa8.avif");
+    background-position: center center;
+    background-size: cover;
+    background-position-y: 0px;
+    background-repeat: no-repeat;
 }
 
 h1{
