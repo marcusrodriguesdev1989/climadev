@@ -18,7 +18,7 @@ body{
 h1{
     font-size: 2rem;
     text-align: center;
-    margin: 15rem 0;
+    margin: 5rem 0 5rem 0;
     color: #ffffff;
 }
 
@@ -90,7 +90,7 @@ h1{
 }
 
 footer{
-    margin-top: 10rem;
+    margin-top: 14.2rem;
     background: #000000;
     opacity: 0.8;
     color: #ffffff;
@@ -98,3 +98,4 @@ footer{
     border-radius: 5px;
     text-align: center;
 }
+
